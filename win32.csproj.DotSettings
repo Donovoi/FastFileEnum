@@ -1,0 +1,7 @@
+﻿<wpf:ResourceDictionary xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                        xmlns:s="clr-namespace:System;assembly=mscorlib"
+                        xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                        xml:space="preserve">
+	<s:String x:Key="/Default/CodeInspection/CSharpLanguageProject/LanguageLevel/@EntryValue">CSharp110</s:String>
+    <s:Boolean
+            x:Key="/Default/Housekeeping/ProjectModelSynchronizer/ProjectGuidsToAlwaysCallMsbuild/=69E825BC9FF06244A88A5C780BD6E2D5/@EntryIndexedValue">True</s:Boolean></wpf:ResourceDictionary>

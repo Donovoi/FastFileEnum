@@ -1,0 +1,65 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "win32/1.0.0": {
+        "dependencies": {
+          "Microsoft.Windows.CsWin32": "0.2.63-beta",
+          "Microsoft.Windows.SDK.Win32Metadata": "35.0.14-preview"
+        },
+        "runtime": {
+          "win32.dll": {}
+        }
+      },
+      "Microsoft.Windows.CsWin32/0.2.63-beta": {
+        "dependencies": {
+          "Microsoft.Windows.SDK.Win32Docs": "0.1.7-alpha",
+          "Microsoft.Windows.SDK.Win32Metadata": "35.0.14-preview",
+          "System.Memory": "4.5.4"
+        }
+      },
+      "Microsoft.Windows.SDK.Win32Docs/0.1.7-alpha": {},
+      "Microsoft.Windows.SDK.Win32Metadata/35.0.14-preview": {},
+      "System.Memory/4.5.4": {}
+    }
+  },
+  "libraries": {
+    "win32/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Windows.CsWin32/0.2.63-beta": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-W820x0FXd8kkaVjuVrG5bDZ3ZuqFZOJAOa6I0nCYsD8pbBr03inIbaIonLam0OoTQVQxPeAst+UQmABCG/UvEw==",
+      "path": "microsoft.windows.cswin32/0.2.63-beta",
+      "hashPath": "microsoft.windows.cswin32.0.2.63-beta.nupkg.sha512"
+    },
+    "Microsoft.Windows.SDK.Win32Docs/0.1.7-alpha": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+8ygOfBME88Sq75zMopFfqCdxBxZoKDlizPK6iYxzSGf6j51rd9ISNJ20UKfOSr746tgn9GNyVI+jc0JXfnuZA==",
+      "path": "microsoft.windows.sdk.win32docs/0.1.7-alpha",
+      "hashPath": "microsoft.windows.sdk.win32docs.0.1.7-alpha.nupkg.sha512"
+    },
+    "Microsoft.Windows.SDK.Win32Metadata/35.0.14-preview": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-qdMCzsOWztyjxuYhz4YY2imW7suHmiVMey4sHS+UljTr4FY5wweqrYX7tG+Es1x3z11tH/uQaTLfFHSNRiUv0w==",
+      "path": "microsoft.windows.sdk.win32metadata/35.0.14-preview",
+      "hashPath": "microsoft.windows.sdk.win32metadata.35.0.14-preview.nupkg.sha512"
+    },
+    "System.Memory/4.5.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-1MbJTHS1lZ4bS4FmsJjnuGJOu88ZzTT2rLvrhW7Ygic+pC0NWA+3hgAen0HRdsocuQXCkUTdFn9yHJJhsijDXw==",
+      "path": "system.memory/4.5.4",
+      "hashPath": "system.memory.4.5.4.nupkg.sha512"
+    }
+  }
+}

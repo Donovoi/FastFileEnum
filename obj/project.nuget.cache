@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "gkntjRhMyyAf92B1Dzh/mOfOkJucUquHvfJNWSnqqHbMqyLaJP7nYjvuY5iBasxDsvX5IhlWGuf/8g6JaknXHQ==",
+  "success": true,
+  "projectFilePath": "F:\\Projects\\PInvoked2\\win32\\win32.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.windows.cswin32\\0.2.63-beta\\microsoft.windows.cswin32.0.2.63-beta.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.windows.sdk.win32docs\\0.1.7-alpha\\microsoft.windows.sdk.win32docs.0.1.7-alpha.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.windows.sdk.win32metadata\\35.0.14-preview\\microsoft.windows.sdk.win32metadata.35.0.14-preview.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
